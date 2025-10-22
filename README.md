@@ -42,19 +42,22 @@
 - Full-stack gaming dashboard integrating Steam OpenID for authentication and real-time stats  
 - Interactive Recharts visualizations for actionable insights  
 - Deployed on Render with automated testing
-
+---
 ### [Jobly](#)
 *React, Node.js, PostgreSQL*
 ![Jobly Demo](https://private-user-images.githubusercontent.com/171862422/504332662-785f6cde-713a-4bdb-92a2-8b1676cb7c09.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjExNTU1MTcsIm5iZiI6MTc2MTE1NTIxNywicGF0aCI6Ii8xNzE4NjI0MjIvNTA0MzMyNjYyLTc4NWY2Y2RlLTcxM2EtNGJkYi05MmEyLThiMTY3NmNiN2MwOS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyMlQxNzQ2NTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMzA2NjBkMzc3YjhmNzAxNzg3NzFmNGQ0NWRjY2Q5YzVkMTUxNTVhMTBjNzQ1NzEzZmE4NDI4OWQzZTY5NDYwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.WnPDdSm8ya323Yv8xzzvAFLK8rapi3sB5XdaIv9CDck)
 - Full-stack job board app with secure RESTful APIs  
 - User authentication, authorization, and schema validation  
 - Automated tests and Render deployment
-
-### [Pokémon Memory Game](#)
+---
+### [ALP Website Redesign](#)
 *HTML, CSS, JavaScript*  
-- Interactive, browser-based memory card game  
-- Dynamic DOM manipulation and event handling  
-- Clean, maintainable code for responsive gameplay
+
+![ALP Website Demo](https://private-user-images.githubusercontent.com/171862422/504338282-56f77e50-c07a-4b30-8a87-66650c6440f4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjExNTYyODAsIm5iZiI6MTc2MTE1NTk4MCwicGF0aCI6Ii8xNzE4NjI0MjIvNTA0MzM4MjgyLTU2Zjc3ZTUwLWMwN2EtNGIzMC04YTg3LTY2NjUwYzY0NDBmNC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyMlQxNzU5NDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NTVhZWIyZDQ1ODQzNGFmOTNiZjI2ODhmMDQwMDIzMTUxZTY4NjE1N2U3YTA4OWVjZTc0N2Q1ZDNmMGU3YTI3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.cyc-1RhXmOk11VLwVQBPGMb4S4QWuptVycene3yO8-s)
+
+- Fully redesigned the front-end of the ALP website from raw HTML to polished, modern UI  
+- Added responsive CSS styling and layout improvements for events and Comic-Con showcases  
+- Optimized for fast loading and cross-browser compatibility
 
 ---
 
@@ -69,7 +72,7 @@
 
 ## 📫 Connect with Me
 
-- **GitHub:** [github.com/dantecancellieri](https://github.com/dantecancellieri)  
+- **GitHub:** [github.com/dantec97](https://github.com/dantecancellieri)  
 - **LinkedIn:** [linkedin.com/in/dantecancellieri](https://linkedin.com/in/dantecancellieri)  
 - **Email:** dante@example.com  
 
