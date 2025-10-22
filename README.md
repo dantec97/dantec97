@@ -72,9 +72,9 @@
 
 ## 📫 Connect with Me
 
-- **GitHub:** [github.com/dantec97](https://github.com/dantecancellieri)  
-- **LinkedIn:** [linkedin.com/in/dantecancellieri](https://linkedin.com/in/dantecancellieri)  
-- **Email:** dante@example.com  
+- **GitHub:** [github.com/dantec97](https://github.com/dantec97)  
+- **LinkedIn:** [linkedin.com/in/dantecancellieri](https://www.linkedin.com/in/dante-cancellieri/)  
+- **Email:** dantecpriority@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=dantecancellieri&color=blue)
 
