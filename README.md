@@ -44,7 +44,8 @@
 - Deployed on Render with automated testing
 
 ### [Jobly](#)
-*React, Node.js, PostgreSQL*  
+*React, Node.js, PostgreSQL*
+![Jobly Demo](https://private-user-images.githubusercontent.com/171862422/504332662-785f6cde-713a-4bdb-92a2-8b1676cb7c09.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjExNTU1MTcsIm5iZiI6MTc2MTE1NTIxNywicGF0aCI6Ii8xNzE4NjI0MjIvNTA0MzMyNjYyLTc4NWY2Y2RlLTcxM2EtNGJkYi05MmEyLThiMTY3NmNiN2MwOS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyMlQxNzQ2NTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMzA2NjBkMzc3YjhmNzAxNzg3NzFmNGQ0NWRjY2Q5YzVkMTUxNTVhMTBjNzQ1NzEzZmE4NDI4OWQzZTY5NDYwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.WnPDdSm8ya323Yv8xzzvAFLK8rapi3sB5XdaIv9CDck)
 - Full-stack job board app with secure RESTful APIs  
 - User authentication, authorization, and schema validation  
 - Automated tests and Render deployment
