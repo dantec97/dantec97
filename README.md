@@ -31,11 +31,11 @@
 ---
 
 ## 💼 Featured Projects
-
+![Steam and Friends Demo](assets/steam_friends.gif)
 ### [Steam and Friends](#)
 *React, Flask, PostgreSQL*  
 
-![Steam and Friends Demo](assets/steam_friends.gif)
+
 
 - Full-stack gaming dashboard integrating Steam OpenID for authentication and real-time stats  
 - Interactive Recharts visualizations for actionable insights  
