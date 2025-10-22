@@ -35,7 +35,7 @@
 ### [Steam and Friends](#)
 *React, Flask, PostgreSQL*  
 
-![Steam and Friends Demo](assets/steam_friends3%20small%20more%20frames.gif)
+![Steam and Friends Demo](assets/steam_friends.gif)
 
 - Full-stack gaming dashboard integrating Steam OpenID for authentication and real-time stats  
 - Interactive Recharts visualizations for actionable insights  
