@@ -37,9 +37,9 @@
 *React, Flask, PostgreSQL*  
 <img src="Assets/steam_friends.gif" alt="Steam and Friends Demo" width="600"/>
 
+- Allows users to link their Steam accout, sync games, create groups with friends, and compare common games
 - Full-stack gaming dashboard integrating Steam OpenID for authentication and real-time stats  
 - Interactive Recharts visualizations for actionable insights  
-- Deployed on Render with automated testing
 
 ---
 
