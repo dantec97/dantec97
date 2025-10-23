@@ -45,7 +45,7 @@
 ---
 ### [Jobly](#)
 *React, Node.js, PostgreSQL*
-![Jobly Demo](Assets/Joblt1.gif)
+![Jobly Demo](Assets/Jobly1.gif)
 - Full-stack job board app with secure RESTful APIs  
 - User authentication, authorization, and schema validation  
 - Automated tests and Render deployment
@@ -53,7 +53,7 @@
 ### [ALP Website Redesign](#)
 *HTML, CSS, JavaScript*  
 
-![ALP Website Demo](Assets/alp.gif)
+![ALP Website Demo](Assets/alp3.gif)
 
 - Fully redesigned the front-end of the ALP website from raw HTML to polished, modern UI  
 - Added responsive CSS styling and layout improvements for events and Comic-Con showcases  
