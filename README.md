@@ -32,33 +32,37 @@
 
 ## 💼 Featured Projects
 
+<div align="center">
+
 ### [Steam and Friends](#)
 *React, Flask, PostgreSQL*  
-![Steam and Friends Demo](Assets/steam_friends.gif)
-
-
-
+<img src="Assets/steam_friends.gif" alt="Steam and Friends Demo" width="600"/>
 
 - Full-stack gaming dashboard integrating Steam OpenID for authentication and real-time stats  
 - Interactive Recharts visualizations for actionable insights  
 - Deployed on Render with automated testing
+
 ---
+
 ### [Jobly](#)
-*React, Node.js, PostgreSQL*
-![Jobly Demo](Assets/Jobly1.gif)
+*React, Node.js, PostgreSQL*  
+<img src="Assets/Jobly1.gif" alt="Jobly Demo" width="600"/>
+
 - Full-stack job board app with secure RESTful APIs  
 - User authentication, authorization, and schema validation  
 - Automated tests and Render deployment
+
 ---
+
 ### [ALP Website Redesign](#)
 *HTML, CSS, JavaScript*  
-
-![ALP Website Demo](Assets/alp3.gif)
+<img src="Assets/alp3.gif" alt="ALP Website Demo" width="600"/>
 
 - Fully redesigned the front-end of the ALP website from raw HTML to polished, modern UI  
 - Added responsive CSS styling and layout improvements for events and Comic-Con showcases  
-- Optimized for fast loading and cross-browser compatibility
+- Optimized for fast loading and cross-browser compatibility  
 
+</div>
 ---
 
 ## 🎓 Education
