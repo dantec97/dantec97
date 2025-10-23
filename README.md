@@ -32,7 +32,7 @@
 
 ## 💼 Featured Projects
 
-<div align="center">
+<div align="left">
 
 ### [Steam and Friends](#)
 *React, Flask, PostgreSQL*  
