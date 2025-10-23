@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Dante Cancellieri
 
-![Hire Me](https://img.shields.io/badge/Hire%20Me-Let's%20Talk!-blue)
-
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-Let's%20Talk!-blue)](mailto:dantecpriority@gmail.com?subject=Hiring%20Inquiry&body=Hi%20Dante,%20I'm%20interested%20in%20discussing%20opportunities.)
 **Detail-oriented Software Engineer** building full-stack apps with **JavaScript, Python, React, Flask, and PostgreSQL**. 
 <p>Passionate about creating clean, maintainable code and delivering user-focused solutions.</p>
 
