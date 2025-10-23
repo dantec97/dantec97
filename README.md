@@ -33,27 +33,30 @@
 
 <div align="left">
 
-### [Steam and Friends](#)
+### [Steam and Friends](https://steam-and-friends-frontend.onrender.com/)  
+[Frontend Code →](https://github.com/dantec97/Steam-and-Friends-frontend) | [Backend Code →](https://github.com/dantec97/Steam-and-Friends-backend)  
 *React, Flask, PostgreSQL*  
 <img src="Assets/steam_friends.gif" alt="Steam and Friends Demo" width="600"/>
 
-- Allows users to link their Steam account, sync games, create groups with friends, and compare common games
+- Allows users to link their Steam account, sync games, create groups with friends, and compare common games  
 - Full-stack gaming dashboard integrating Steam OpenID for authentication and real-time stats  
 - Interactive Recharts visualizations for actionable insights  
 
 ---
 
-### [Jobly](#)
+### [Jobly](https://jobly-frontend-jwe5.onrender.com/)  
+[Frontend Code →](https://github.com/dantec97/jobly-frontend) | [Backend Code →](https://github.com/dantec97/jobly-backend)  
 *React, Node.js, PostgreSQL*  
 <img src="Assets/Jobly1.gif" alt="Jobly Demo" width="600"/>
 
 - Full-stack job board app with secure RESTful APIs  
 - User authentication, authorization, and schema validation  
-- Automated tests and Render deployment
+- Automated tests and Render deployment  
 
 ---
 
-### [ALP Website Redesign](#)
+### [ALP Website Redesign](https://alp.sandiegolan.net/index.html)  
+[Frontend Code →](https://github.com/dantec97/alp.sandiegolan)  
 *HTML, CSS, JavaScript*  
 <img src="Assets/alp3.gif" alt="ALP Website Demo" width="600"/>
 
