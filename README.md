@@ -5,8 +5,8 @@
 <p>Passionate about creating clean, maintainable code and delivering user-focused solutions.</p>
 
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dantec97&layout=compact&theme=radical)
+<!-- ## 📊 GitHub Stats -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dantec97&layout=compact&theme=radical) -->
 
 ---
 
@@ -43,6 +43,20 @@
 ## 💼 Featured Projects
 
 <div align="left">
+
+### [Platform Party](https://platform-party.com/)
+[Frontend Code →](https://github.com/dantec97/Game_Sync_3.0_frontend) | [Backend Code →](https://github.com/dantec97/Game_Sync_3.0_backend)  
+*React, Flask, PostgreSQL*  
+<img src="Assets/Platform_Party.gif" alt="Platform Party Demo" width="600"/>
+
+- **All-in-one social gaming platform** for effortless game night coordination across Steam, PlayStation, Xbox, Nintendo, mobile, and more
+- **Universal Game Library:** Add any game from any platform, auto-sync with Steam & PSN
+- **Cross-Platform Friends:** Connect with friends regardless of where they play
+- **Smart Scheduling:** Set your availability, see group overlap, and plan game nights with timezone conversion
+- **Group Coordination:** Create groups, chat, vote on games, and manage shared calendars
+- **Customizable Dashboard:** Drag, resize, and arrange widgets for a personalized experience
+- **Live Demo:** [Platform-Party.com](https://platform-party.com/)
+
 
 ### [Steam and Friends](https://steam-and-friends-frontend.onrender.com/)  
 [Frontend Code →](https://github.com/dantec97/Steam-and-Friends-frontend) | [Backend Code →](https://github.com/dantec97/Steam-and-Friends-backend)  
